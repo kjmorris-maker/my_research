@@ -8,7 +8,5 @@ import numpy as np
 x = 5
 
 y = x - 3
-<<<<<<< HEAD
+
 #I should import full dataset now
-=======
->>>>>>> 5fda1ea (start research)
